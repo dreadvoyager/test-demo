@@ -1,26 +1,23 @@
-# test-demo
-test
-test
-test
-test
-test
-test
-test
-demo
-demo2
-demo3
-demo4
-demo5
-demo6
-demo7
-demo8
-demo9
-demo10
-demo11
-demo12
-demo13
+# About
+### Documentation Dies the Moment Code Is Merged
 
-added an new pythin file
+Developers merge PRs daily, but Confluence pages stay frozen in time. The result? Stale docs, knowledge silos, compliance gaps, and wasted hours hunting for truth.
 
-changed from personal github
-MADE NEW CHANGES, ADDED A COMPONENT TO MAKE THE WORKFLOW SWIFT. REACT FASTER. THIS IS FOR TEST PURPOSE ONLY.
+### Key Stats
+
+- 83 hrs — Lost per month (10-person team) to manual documentation work.
+
+- 60% — of internal docs are outdated within 2 weeks of a release.
+
+- 3× — Longer onboarding when docs don't reflect current code.
+
+- $0 — Budget allocated to keep docs current in most teams
+
+### Efficiency & developer hours saved
+- ~70 hrs — Developer hours saved per month (10-person team)
+- < $5 — Total monthly infrastructure cost (free tiers)
+- 30s — PR merge to Confluence page updated
+- 0 — Manual steps required from developers
+- For less than the cost of a coffee, the system replaces ~70 hours of manual documentation
+work each month — equivalent to reclaiming nearly one full-time engineer.
+
