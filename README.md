@@ -23,3 +23,4 @@ demo13
 added an new pythin file
 
 changed from personal github
+MADE NEW CHANGES, ADDED A COMPONENT TO MAKE THE WORKFLOW SWIFT. REACT FASTER. THIS IS FOR TEST PURPOSE ONLY.
